@@ -9,7 +9,7 @@ import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.sql.Statement;
 
-public class DbConnectSample3 {
+public class DbConnectSample03 {
         public static void main(String[] args) {
         // データベース接続と結果取得のための変数
         Connection con = null;
